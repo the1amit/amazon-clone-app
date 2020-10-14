@@ -5,8 +5,6 @@
 /.pnp
 .pnp.js
 
-#secret file
-src\App.js
 
 # testing
 /coverage
