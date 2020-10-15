@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Amazone Clone
+
+This project is part of The 5 days React JavaScrpit Challenge by [ Cleaver Programmer team ](https://github.com/CleverProgrammer).
+
+## This project has full E-Commerce functionality, a Payments Infrastructure [Stripe](https://stripe.com/en-ca) and Firebase's Cloud Firestore Database.
+
+This Project is deployed with Firebase, open [https://clone-f328c.web.app/](https://clone-f328c.web.app/) to view it in the any browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
