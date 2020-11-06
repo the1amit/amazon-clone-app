@@ -19,6 +19,9 @@
   height: 22px !important;
   background-color: #cd9042;
 }
+.header_searchIcon:hover {
+  background: #e9a449;
+}
 .header_search {
   display: flex;
   flex: 1;
